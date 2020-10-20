@@ -13,6 +13,7 @@
 		025417FA253E17E000C6F9EA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 025417F9253E17E000C6F9EA /* Preview Assets.xcassets */; };
 		02541805253E17E000C6F9EA /* HomeWork3_2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02541804253E17E000C6F9EA /* HomeWork3_2Tests.swift */; };
 		02541810253E17E000C6F9EA /* HomeWork3_2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0254180F253E17E000C6F9EA /* HomeWork3_2UITests.swift */; };
+		02B2D9AF253F8AB600B93C24 /* SliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02B2D9AE253F8AB600B93C24 /* SliderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		0254180B253E17E000C6F9EA /* HomeWork3.2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HomeWork3.2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0254180F253E17E000C6F9EA /* HomeWork3_2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeWork3_2UITests.swift; sourceTree = "<group>"; };
 		02541811253E17E000C6F9EA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		02B2D9AE253F8AB600B93C24 /* SliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				025417F2253E17DE00C6F9EA /* HomeWork3_2App.swift */,
 				025417F4253E17DE00C6F9EA /* ContentView.swift */,
+				02B2D9AE253F8AB600B93C24 /* SliderView.swift */,
 				025417F6253E17E000C6F9EA /* Assets.xcassets */,
 				025417FB253E17E000C6F9EA /* Info.plist */,
 				025417F8253E17E000C6F9EA /* Preview Content */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				02B2D9AF253F8AB600B93C24 /* SliderView.swift in Sources */,
 				025417F5253E17DE00C6F9EA /* ContentView.swift in Sources */,
 				025417F3253E17DE00C6F9EA /* HomeWork3_2App.swift in Sources */,
 			);
